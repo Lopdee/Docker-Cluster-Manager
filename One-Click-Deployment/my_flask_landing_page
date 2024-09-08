@@ -1,0 +1,7 @@
+/my_flask_landing_page
+    /static
+        - style.css        # For CSS and other static files like images
+    /templates
+        - landing_page.html  # Your landing page HTML template
+    app.py                # Flask app file
+
